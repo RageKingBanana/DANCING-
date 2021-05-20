@@ -15,7 +15,7 @@ namespace Wolf3D.ReadyPlayerMe.AvatarSDK
         private const int AmplituteMultiplier = 10;
         private const int AudioSampleLength = 4096;
 
-        private AudioSource audioSource;
+        public AudioSource audioSource;
         private float[] audioSample = new float[AudioSampleLength];
 
         private SkinnedMeshRenderer headMesh;
