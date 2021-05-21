@@ -677,15 +677,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010409153280, guid: 3228a22491941734bb83ad691d17fcb9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.08
+      value: -4.92
       objectReference: {fileID: 0}
     - target: {fileID: 4000010409153280, guid: 3228a22491941734bb83ad691d17fcb9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.375
       objectReference: {fileID: 0}
     - target: {fileID: 4000010409153280, guid: 3228a22491941734bb83ad691d17fcb9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -6.59
       objectReference: {fileID: 0}
     - target: {fileID: 4000010409153280, guid: 3228a22491941734bb83ad691d17fcb9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1015,6 +1015,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4225329037784120270, guid: 30d2d4fe5430da74b9528a5549080eb8, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4225329038541725298, guid: 30d2d4fe5430da74b9528a5549080eb8, type: 3}
       propertyPath: m_Name
       value: Map (1)
@@ -1079,7 +1083,7 @@ PrefabInstance:
     - target: {fileID: 4689707540865231507, guid: 83e55f6f7a48c644db1b2c5d3d65190f, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 13bcf837a2f484a44af80b6c39988c4a, type: 2}
+      objectReference: {fileID: 9100000, guid: 6e31b94493fbe6c499b86b239a8f2e5b, type: 2}
     - target: {fileID: 4689707541435752828, guid: 83e55f6f7a48c644db1b2c5d3d65190f, type: 3}
       propertyPath: m_Name
       value: Ricky
