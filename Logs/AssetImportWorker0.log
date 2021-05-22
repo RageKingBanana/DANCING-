@@ -2589,3 +2589,2018 @@ Received Import Request.
 Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Materials/MoonSword 2.mat using Guid(1dbd42bf9841b4c46b31a0c698b5b767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b02d4a919d0bad97600dbe78ee35e38') in 0.099623 seconds
   Import took 0.103504 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 338.211011 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack
+  artifactKey: Guid(781aad2d630bb6a468a68331009360c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack using Guid(781aad2d630bb6a468a68331009360c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b74cb1275b9f1b48ff2bb850eeca4d6') in 0.011008 seconds
+  Import took 0.014772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.756209 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Fall.FBX
+  artifactKey: Guid(3e67e6dd462ede546be1899f12e7ed84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Fall.FBX using Guid(3e67e6dd462ede546be1899f12e7ed84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2551c5c563b0fc16a1d4b14975dcfb48') in 0.029064 seconds
+  Import took 0.032807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Idle.FBX
+  artifactKey: Guid(b98b7aa11e6be4046ac0b69e18d90edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Idle.FBX using Guid(b98b7aa11e6be4046ac0b69e18d90edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3a9fb38b1b2861c08a15c7252e85d4') in 0.022675 seconds
+  Import took 0.027821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Run.FBX
+  artifactKey: Guid(40ec9eec9b6f5444497b1487ad82d465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Run.FBX using Guid(40ec9eec9b6f5444497b1487ad82d465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c7dcd8b9668b89880309ef952f3092') in 0.017204 seconds
+  Import took 0.021581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Walk.FBX
+  artifactKey: Guid(d6aedafb511eec749b8c351a33a4540c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Walk.FBX using Guid(d6aedafb511eec749b8c351a33a4540c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf0511f02f221452d96e4e7ffa3c01ee') in 0.021726 seconds
+  Import took 0.031619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations
+  artifactKey: Guid(695e006a106786743addd1fcff461f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations using Guid(695e006a106786743addd1fcff461f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7568168dcb6b34a0e21bfcb064c55bb7') in 0.013762 seconds
+  Import took 0.017245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Jump.FBX
+  artifactKey: Guid(0a6319fac181edb4d82470f123332490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Jump.FBX using Guid(0a6319fac181edb4d82470f123332490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5739ed3831e424883c86ce74999f4c7') in 0.018105 seconds
+  Import took 0.021992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Stunned.FBX
+  artifactKey: Guid(e00ce95c0bff0bf41afd5b76722b72c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Sorceress@Stunned.FBX using Guid(e00ce95c0bff0bf41afd5b76722b72c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a8c4b611580ec180a633c5f5557ace') in 0.020048 seconds
+  Import took 0.023519 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002558 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.897 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.1 MB.
+System memory in use after: 91.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2047.
+Total: 2.493661 ms (FindLiveObjects: 0.215217 ms CreateObjectMapping: 0.058780 ms MarkObjects: 2.115164 ms  DeleteObjects: 0.102322 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 20.269578 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animation Controller/Sorceress Warrior Animation Controller.controller
+  artifactKey: Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animation Controller/Sorceress Warrior Animation Controller.controller using Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '247cfe000bd829745637a0e72b924064') in 0.027009 seconds
+  Import took 0.030412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.184765 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animation Controller/Sorceress Warrior Animation Controller.controller
+  artifactKey: Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animation Controller/Sorceress Warrior Animation Controller.controller using Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b112f127703819d360e727e9260669') in 0.008529 seconds
+  Import took 0.012500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000656 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animation Controller/Sorceress Warrior Animation Controller.controller
+  artifactKey: Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animation Controller/Sorceress Warrior Animation Controller.controller using Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b112f127703819d360e727e9260669') in 0.005623 seconds
+  Import took 0.009103 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004650 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.695 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.1 MB.
+System memory in use after: 91.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2050.
+Total: 3.615466 ms (FindLiveObjects: 0.207131 ms CreateObjectMapping: 0.069044 ms MarkObjects: 3.219242 ms  DeleteObjects: 0.118183 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002603 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.312 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.1 MB.
+System memory in use after: 91.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2053.
+Total: 2.111743 ms (FindLiveObjects: 0.179452 ms CreateObjectMapping: 0.055670 ms MarkObjects: 1.771501 ms  DeleteObjects: 0.103566 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 211.039555 seconds.
+  path: Assets/A-WEAPONS/pewpew
+  artifactKey: Guid(4a5eb41fa4602c9499ab82ece8a92e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/pewpew using Guid(4a5eb41fa4602c9499ab82ece8a92e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08faf84e1e93363bd65e7a783461c2f7') in 0.012058 seconds
+  Import took 0.015275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.790980 seconds.
+  path: Assets/A-WEAPONS/pewpew/Animators/Jad.controller
+  artifactKey: Guid(acd0cd5e3b10e1742889539b75aeb342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/pewpew/Animators/Jad.controller using Guid(acd0cd5e3b10e1742889539b75aeb342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f066c36187af8d02a885479a8210a9') in 0.035835 seconds
+  Import took 0.040340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.593323 seconds.
+  path: Assets/A-WEAPONS/pewpew/Animators/Ron.controller
+  artifactKey: Guid(acd0cd5e3b10e1742889539b75aeb342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/pewpew/Animators/Ron.controller using Guid(acd0cd5e3b10e1742889539b75aeb342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a78e5636f5377c0950ea1620b07afd88') in 0.024385 seconds
+  Import took 0.028882 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002737 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.437 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.1 MB.
+System memory in use after: 91.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2056.
+Total: 2.182342 ms (FindLiveObjects: 0.182562 ms CreateObjectMapping: 0.056603 ms MarkObjects: 1.859827 ms  DeleteObjects: 0.081484 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 44.256646 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animation Controller/Sorceress Warrior Animation Controller.controller
+  artifactKey: Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animation Controller/Sorceress Warrior Animation Controller.controller using Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8bafe4e9772bf4fb56bdd878910283') in 0.028445 seconds
+  Import took 0.032193 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.574 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.1 MB.
+System memory in use after: 91.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2059.
+Total: 2.628949 ms (FindLiveObjects: 0.190026 ms CreateObjectMapping: 0.058780 ms MarkObjects: 2.277821 ms  DeleteObjects: 0.099834 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 324.233961 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons
+  artifactKey: Guid(716794d8d7eb23d44a291d5918bf9bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons using Guid(716794d8d7eb23d44a291d5918bf9bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1507119b18639414b950844d48e2d349') in 0.007445 seconds
+  Import took 0.010563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.682001 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)
+  artifactKey: Guid(3851144ce08ac954e82e26f82f46c806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free) using Guid(3851144ce08ac954e82e26f82f46c806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7aa555f277792cd5d4c321565938fd2') in 0.004895 seconds
+  Import took 0.007934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.235624 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials
+  artifactKey: Guid(f16f418b921e9234888a27729d423865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials using Guid(f16f418b921e9234888a27729d423865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868d4abf79ac6f513343edb5473302db') in 0.008516 seconds
+  Import took 0.011435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043563 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-005.mat
+  artifactKey: Guid(15920cdb52ec2dd4c847d5b862f11533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-005.mat using Guid(15920cdb52ec2dd4c847d5b862f11533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060ceeff640375824fef7c6d02da0223') in 0.076360 seconds
+  Import took 0.079504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-015.mat
+  artifactKey: Guid(c38317b68a4128f4a818620722377b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-015.mat using Guid(c38317b68a4128f4a818620722377b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31637fbdb346fe130fba3561939db6b') in 0.025263 seconds
+  Import took 0.027876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-011.mat
+  artifactKey: Guid(264acc1837cbb7f48a1772d342bf3e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-011.mat using Guid(264acc1837cbb7f48a1772d342bf3e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45dcda21c1aced502d0ca17d4d31a4c6') in 0.038326 seconds
+  Import took 0.042119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-018.mat
+  artifactKey: Guid(65cd3c12332a0bc439a87c64f54bb234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-018.mat using Guid(65cd3c12332a0bc439a87c64f54bb234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7911a2187a6318aac5d6c6c2839fb6ee') in 0.023749 seconds
+  Import took 0.028500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-016.mat
+  artifactKey: Guid(ee3147ea1ff857b4aac14a0202e1e3c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-016.mat using Guid(ee3147ea1ff857b4aac14a0202e1e3c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc86bd33c7248cac94228195194012c') in 0.024376 seconds
+  Import took 0.027409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-013.mat
+  artifactKey: Guid(b56540a01b825704586e2cd7e2629437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Materials/Weapon-013.mat using Guid(b56540a01b825704586e2cd7e2629437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce3e365a8540a3c43f5e53229130c45') in 0.022990 seconds
+  Import took 0.026394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.638595 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model
+  artifactKey: Guid(4630f5b7c75af8346946e84c6d6ef6be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model using Guid(4630f5b7c75af8346946e84c6d6ef6be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29823cff24145ce11ca4766c677475c4') in 0.008376 seconds
+  Import took 0.011282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048743 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Aex-01.FBX
+  artifactKey: Guid(ec6ec8660300a5e43b51adafb93c6566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Aex-01.FBX using Guid(ec6ec8660300a5e43b51adafb93c6566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf129c67094eb04cf524c3e2df77621e') in 0.054764 seconds
+  Import took 0.057970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Stick-01.FBX
+  artifactKey: Guid(f7782bed235174240a8fdef9b8051fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Stick-01.FBX using Guid(f7782bed235174240a8fdef9b8051fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422971989aa2e77b70a7162f0008a90a') in 0.030469 seconds
+  Import took 0.033355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Wand-01.FBX
+  artifactKey: Guid(803145e5d0e3e3e4781b954f4d416c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Wand-01.FBX using Guid(803145e5d0e3e3e4781b954f4d416c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e50426dafff42476e1ce5244a6bc36') in 0.028845 seconds
+  Import took 0.031831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Sword-02.FBX
+  artifactKey: Guid(246df063dc65c8e48a5fe90ac82ba374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Sword-02.FBX using Guid(246df063dc65c8e48a5fe90ac82ba374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465d08281477e1ec159d7b9e8ff826db') in 0.028183 seconds
+  Import took 0.031922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Sword-06.FBX
+  artifactKey: Guid(2c84a02fae1babe42add5f4a5f3fdf19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Sword-06.FBX using Guid(2c84a02fae1babe42add5f4a5f3fdf19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ceebac19e9eb6d01332757471b297e') in 0.027723 seconds
+  Import took 0.031159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Sword-08.FBX
+  artifactKey: Guid(b42727b9744ff9b4ba84d0110e63f6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Sword-08.FBX using Guid(b42727b9744ff9b4ba84d0110e63f6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99bb04eaffe44fd3ffd6939b4c5652e6') in 0.030900 seconds
+  Import took 0.034413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Sword-06.FBX
+  artifactKey: Guid(2c84a02fae1babe42add5f4a5f3fdf19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Sword-06.FBX using Guid(2c84a02fae1babe42add5f4a5f3fdf19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ceebac19e9eb6d01332757471b297e') in 0.021136 seconds
+  Import took 0.024596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Sword-08.FBX
+  artifactKey: Guid(b42727b9744ff9b4ba84d0110e63f6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Model/Weapon-Sword-08.FBX using Guid(b42727b9744ff9b4ba84d0110e63f6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99bb04eaffe44fd3ffd6939b4c5652e6') in 0.021130 seconds
+  Import took 0.024617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.083255 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab
+  artifactKey: Guid(0904c8dc7bb0c9e4ea5ad9ef0096862d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab using Guid(0904c8dc7bb0c9e4ea5ad9ef0096862d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65dd8a0689e1ce77fdd1520013492f4') in 0.005533 seconds
+  Import took 0.008416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034329 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Aex.prefab
+  artifactKey: Guid(d105ff5ece9622442887e217bf745797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Aex.prefab using Guid(d105ff5ece9622442887e217bf745797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef12fece1223474c89d17e626083417') in 0.018222 seconds
+  Import took 0.021527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Sword-2.prefab
+  artifactKey: Guid(e9ecb92fe406a8c41a5e84793cf01d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Sword-2.prefab using Guid(e9ecb92fe406a8c41a5e84793cf01d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8925534ff9afdf0ee07e764bc2810bea') in 0.016971 seconds
+  Import took 0.020119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Wand.prefab
+  artifactKey: Guid(d3a6c914c29a21d4d933dca3771774b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Wand.prefab using Guid(d3a6c914c29a21d4d933dca3771774b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e875df96942bce6cc11b7dbb58695903') in 0.016961 seconds
+  Import took 0.020225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Sword-3.prefab
+  artifactKey: Guid(5f019a88a0f83cb40b249cb6c7af3eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Sword-3.prefab using Guid(5f019a88a0f83cb40b249cb6c7af3eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38a41dd50dd0ee1fd2011ddff4829054') in 0.021509 seconds
+  Import took 0.026444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Sword-1.prefab
+  artifactKey: Guid(a780c40403ace8e4d918789df9ffed00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Sword-1.prefab using Guid(a780c40403ace8e4d918789df9ffed00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826d27017fd4def315e5fff14d3a9f57') in 0.020179 seconds
+  Import took 0.024757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Stick.prefab
+  artifactKey: Guid(13c415e7ae7076f4f87249c0277bfbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Prefab/Weapon-Stick.prefab using Guid(13c415e7ae7076f4f87249c0277bfbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a52956db908170d7f78c16490beb95f') in 0.021236 seconds
+  Import took 0.024779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.468931 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures
+  artifactKey: Guid(5ed06b2c63a398d4e906d83ed4ae7f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures using Guid(5ed06b2c63a398d4e906d83ed4ae7f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4f5cecaa9084ddaa5a50ac18c87293') in 0.008524 seconds
+  Import took 0.011827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047499 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Axe.png
+  artifactKey: Guid(e47013935759d4942bd23e142e4aad24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Axe.png using Guid(e47013935759d4942bd23e142e4aad24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303c5366892c289c7389bcd24582b35d') in 0.044972 seconds
+  Import took 0.048209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Sword-1.png
+  artifactKey: Guid(b0fac3d33407e9c41a97e3372979608a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Sword-1.png using Guid(b0fac3d33407e9c41a97e3372979608a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4000860561121a311dc05d4b2e77f8c4') in 0.015869 seconds
+  Import took 0.035461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Sword-3.png
+  artifactKey: Guid(e6ce0cdc3cc8ffd488e91de676bfae8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Sword-3.png using Guid(e6ce0cdc3cc8ffd488e91de676bfae8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf235d12a58de114f216b52509a02897') in 0.019252 seconds
+  Import took 0.022417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Swrod-2.png
+  artifactKey: Guid(5d98e3db769ef3849b248fb5ccb8be0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Swrod-2.png using Guid(5d98e3db769ef3849b248fb5ccb8be0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503da1ed42583f2d3aa05c76488ef5f0') in 0.021796 seconds
+  Import took 0.024971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Wand.png
+  artifactKey: Guid(b829820abedd4fe408968906d2ed804d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Wand.png using Guid(b829820abedd4fe408968906d2ed804d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959d3d04bc4549ad49720ee1b8c67c17') in 0.021023 seconds
+  Import took 0.023841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Stick.png
+  artifactKey: Guid(65215b31afa983a40966ece4ab13d749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Textures/Weapon-Stick.png using Guid(65215b31afa983a40966ece4ab13d749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16416770ffb6174ad5e0bb452808265e') in 0.019097 seconds
+  Import took 0.022809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.357003 seconds.
+  path: Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Scene
+  artifactKey: Guid(e7815e0dc42aeb746a32f5c72b120e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/CRT Studio/Weapons/Weapons Pack (Free)/Scene using Guid(e7815e0dc42aeb746a32f5c72b120e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23773efecc14afb546bb0e5a366062d9') in 0.005191 seconds
+  Import took 0.008232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.743610 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Scenes
+  artifactKey: Guid(d8994d238561d4b4090d413e8e7404fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Scenes using Guid(d8994d238561d4b4090d413e8e7404fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd278ee2a49af1e66779ec57039037424') in 0.006175 seconds
+  Import took 0.009889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.420986 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Scenes/Ninja Warrior.unity
+  artifactKey: Guid(4cd1124d1c6def3498fc661f9186c120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Scenes/Ninja Warrior.unity using Guid(4cd1124d1c6def3498fc661f9186c120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e710188dd43a6fb1a59f440cf8ba9b6') in 0.010865 seconds
+  Import took 0.040226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.885891 seconds.
+  path: Assets/Scenes/DanceScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DanceScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42175b07f70c2061dd95aa919f880364') in 0.009629 seconds
+  Import took 0.012915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.849869 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Prefabs/Ninja Warrior.prefab
+  artifactKey: Guid(c4a69e964de31604a9267bcc59bbbc1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Prefabs/Ninja Warrior.prefab using Guid(c4a69e964de31604a9267bcc59bbbc1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed30b10015766593bd8b6a2f1d9e146') in 0.037727 seconds
+  Import took 0.042208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.360441 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Characters/Ninja.FBX
+  artifactKey: Guid(24bdb7cc7a8d8a745a84df6c531bc19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Characters/Ninja.FBX using Guid(24bdb7cc7a8d8a745a84df6c531bc19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea0d8fe6142286aa9bdc6a1617f13921') in 0.038630 seconds
+  Import took 0.042361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.706824 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@Fall.FBX
+  artifactKey: Guid(270e1a5a1c864ad41a8f1975302250e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@Fall.FBX using Guid(270e1a5a1c864ad41a8f1975302250e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21df42539924c202c3d8f57ab60112b6') in 0.013605 seconds
+  Import took 0.017556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@Walk.FBX
+  artifactKey: Guid(65f7794f08d42dc478d1f2d09fe559dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@Walk.FBX using Guid(65f7794f08d42dc478d1f2d09fe559dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b48cdece48a68cf925cc3837b1e1cb51') in 0.021458 seconds
+  Import took 0.025106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@WalkSlow.FBX
+  artifactKey: Guid(a14fbd526c1216c44a00e83c8e0d467b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@WalkSlow.FBX using Guid(a14fbd526c1216c44a00e83c8e0d467b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c066659aa42b16981bd574e88fc1d9aa') in 0.020914 seconds
+  Import took 0.029019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@Run.FBX
+  artifactKey: Guid(0931ee4927ebe68469e9d3c13bd8cd75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@Run.FBX using Guid(0931ee4927ebe68469e9d3c13bd8cd75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9a71ff9616ebcd003bdfc77751066a') in 0.017818 seconds
+  Import took 0.021846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@Jump.FBX
+  artifactKey: Guid(2c09e782d3065fc44ae6b4e075d30648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@Jump.FBX using Guid(2c09e782d3065fc44ae6b4e075d30648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7020a9e073deec942cbde12e4625dcbf') in 0.018508 seconds
+  Import took 0.023496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@Idle.FBX
+  artifactKey: Guid(a178bb221d265b9438121289a4c2f10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Ninja@Idle.FBX using Guid(a178bb221d265b9438121289a4c2f10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d91f9b05266d1c013d428d8c3f67a2') in 0.017475 seconds
+  Import took 0.021836 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002584 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.335 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.2 MB.
+System memory in use after: 91.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2063.
+Total: 2.329449 ms (FindLiveObjects: 0.205576 ms CreateObjectMapping: 0.071532 ms MarkObjects: 1.952196 ms  DeleteObjects: 0.098589 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003994 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.929 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.2 MB.
+System memory in use after: 91.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2066.
+Total: 2.491173 ms (FindLiveObjects: 0.201222 ms CreateObjectMapping: 0.062513 ms MarkObjects: 2.125117 ms  DeleteObjects: 0.100456 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.862 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.2 MB.
+System memory in use after: 91.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2069.
+Total: 4.550667 ms (FindLiveObjects: 0.235122 ms CreateObjectMapping: 0.069977 ms MarkObjects: 4.127074 ms  DeleteObjects: 0.116628 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 611.743952 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animation Controller/Ninja Warrior Animation Controller.controller
+  artifactKey: Guid(2bde4631b80eb5648bfd89479fb7c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animation Controller/Ninja Warrior Animation Controller.controller using Guid(2bde4631b80eb5648bfd89479fb7c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b6eeb8552a244938ee2424b2906fc32') in 0.038232 seconds
+  Import took 0.042238 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002528 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.335 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.2 MB.
+System memory in use after: 91.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2072.
+Total: 2.109877 ms (FindLiveObjects: 0.191892 ms CreateObjectMapping: 0.057847 ms MarkObjects: 1.766836 ms  DeleteObjects: 0.092369 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 26.044294 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Attack1.anim
+  artifactKey: Guid(c7c94d5dd0aafe74e94edeb21596d86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Attack1.anim using Guid(c7c94d5dd0aafe74e94edeb21596d86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd130f88166e386bbc73748752a9a4aff') in 0.032536 seconds
+  Import took 0.035902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.537317 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animation Controller/Ninja Warrior Animation Controller 1.controller
+  artifactKey: Guid(4e5062e437eb770488eab4ed66865f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animation Controller/Ninja Warrior Animation Controller 1.controller using Guid(4e5062e437eb770488eab4ed66865f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f876754700d9986ec5a2750f8ec23866') in 0.012550 seconds
+  Import took 0.015946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000770 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animation Controller/Ninja Warrior Animation Controller 1.controller
+  artifactKey: Guid(4e5062e437eb770488eab4ed66865f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animation Controller/Ninja Warrior Animation Controller 1.controller using Guid(4e5062e437eb770488eab4ed66865f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f876754700d9986ec5a2750f8ec23866') in 0.004927 seconds
+  Import took 0.008067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.217416 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animation Controller/Ninja Warrior Animation Controller.controller
+  artifactKey: Guid(2bde4631b80eb5648bfd89479fb7c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animation Controller/Ninja Warrior Animation Controller.controller using Guid(2bde4631b80eb5648bfd89479fb7c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2377afe09168f3752002247104b7bd99') in 0.005301 seconds
+  Import took 0.009166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020102 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animation Controller/Ninja Warrior Animation Controller.controller
+  artifactKey: Guid(2bde4631b80eb5648bfd89479fb7c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animation Controller/Ninja Warrior Animation Controller.controller using Guid(2bde4631b80eb5648bfd89479fb7c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2377afe09168f3752002247104b7bd99') in 0.005447 seconds
+  Import took 0.008451 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003887 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.617 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.2 MB.
+System memory in use after: 91.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2075.
+Total: 2.446699 ms (FindLiveObjects: 0.195935 ms CreateObjectMapping: 0.106676 ms MarkObjects: 2.045810 ms  DeleteObjects: 0.096723 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002969 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.286 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.2 MB.
+System memory in use after: 91.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2078.
+Total: 2.413421 ms (FindLiveObjects: 0.264668 ms CreateObjectMapping: 0.078996 ms MarkObjects: 1.973967 ms  DeleteObjects: 0.093924 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002577 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.332 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.2 MB.
+System memory in use after: 91.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2081.
+Total: 2.184830 ms (FindLiveObjects: 0.193447 ms CreateObjectMapping: 0.055670 ms MarkObjects: 1.834635 ms  DeleteObjects: 0.099523 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002694 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.345 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.2 MB.
+System memory in use after: 91.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2084.
+Total: 2.210333 ms (FindLiveObjects: 0.172609 ms CreateObjectMapping: 0.052871 ms MarkObjects: 1.876932 ms  DeleteObjects: 0.107298 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 437.519806 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Fall.anim
+  artifactKey: Guid(a40377d6d0dde704cb6a07c4442fa0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Fall.anim using Guid(a40377d6d0dde704cb6a07c4442fa0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244eb231d552fc1868b216d5cb6fed7f') in 0.032242 seconds
+  Import took 0.035388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.216536 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Idle.anim
+  artifactKey: Guid(521899e230fb7be4281c2ab9ac3f0b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Idle.anim using Guid(521899e230fb7be4281c2ab9ac3f0b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9231632ce929f0d7e89c1112bbfc3753') in 0.038961 seconds
+  Import took 0.042074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.047431 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Jump.anim
+  artifactKey: Guid(22cdd154b1d64a540a4f2adc229591c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Jump.anim using Guid(22cdd154b1d64a540a4f2adc229591c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e670ff34ca4b8aa5c85a30909a4b14b8') in 0.018225 seconds
+  Import took 0.021969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.215964 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Land.anim
+  artifactKey: Guid(209ee0c5ef4d0ae448bbdcf0d11b71ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Land.anim using Guid(209ee0c5ef4d0ae448bbdcf0d11b71ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d59cb3c584196d40cd1c06a897ce411') in 0.016319 seconds
+  Import took 0.019318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.993218 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Run.anim
+  artifactKey: Guid(965a176f2984cad4199cdd792d4ab171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Run.anim using Guid(965a176f2984cad4199cdd792d4ab171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7935f28d8739243a791de4b6d05d0b') in 0.016068 seconds
+  Import took 0.019155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.350870 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Walk.anim
+  artifactKey: Guid(30a11a83911cd2941a164aef35c2333e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/Walk.anim using Guid(30a11a83911cd2941a164aef35c2333e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2572548a513de7ef8a240af56efb89cf') in 0.016673 seconds
+  Import took 0.020236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.036373 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/WalkSlow.anim
+  artifactKey: Guid(04b5eb48de0618549b536abed2e42069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Animations/WalkSlow.anim using Guid(04b5eb48de0618549b536abed2e42069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e28f965f9b1e7ac9238bb8389435eaf6') in 0.017358 seconds
+  Import took 0.020524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.724533 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Materials/Ninja.mat
+  artifactKey: Guid(97e5db5a0e4821a46b0efc57d7308489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Materials/Ninja.mat using Guid(97e5db5a0e4821a46b0efc57d7308489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7974be6e41d8d1a326f7fee49aebd959') in 0.061771 seconds
+  Import took 0.065254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.454821 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Textures/Ninja.psd
+  artifactKey: Guid(f23bfe090f96a354cadcc9391d9f05c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Textures/Ninja.psd using Guid(f23bfe090f96a354cadcc9391d9f05c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3faba749504451e690b86d1f7b07587') in 0.015349 seconds
+  Import took 0.018457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.170668 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Prefabs/Ninja Warrior.prefab
+  artifactKey: Guid(c4a69e964de31604a9267bcc59bbbc1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Ninja Warrior Mecanim Animation Pack/Prefabs/Ninja Warrior.prefab using Guid(c4a69e964de31604a9267bcc59bbbc1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b862ca987478246241ce52d518553b') in 0.015288 seconds
+  Import took 0.019004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.231134 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Characters/Sorceress-Hair.FBX
+  artifactKey: Guid(88d3d2dc5e25277479beadf41a139afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Characters/Sorceress-Hair.FBX using Guid(88d3d2dc5e25277479beadf41a139afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91bf6c58349e72c4e30755542dbe4a91') in 0.055237 seconds
+  Import took 0.058898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Characters/Sorceress.FBX
+  artifactKey: Guid(bb5ada740cae9e749a27ebcf41af0d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Characters/Sorceress.FBX using Guid(bb5ada740cae9e749a27ebcf41af0d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f2a573e5da2dda211f7ff2e28ecbd6a') in 0.038277 seconds
+  Import took 0.041351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.914753 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Materials/Sorceress.mat
+  artifactKey: Guid(b214cd353f2ca524fbffd040bb0465f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Materials/Sorceress.mat using Guid(b214cd353f2ca524fbffd040bb0465f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab688c121f0c7847c50a80ae1a21cdc1') in 0.013534 seconds
+  Import took 0.016988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.863775 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Prefabs/Sorceress Warrior.prefab
+  artifactKey: Guid(19241c63182d7eb4aa7b0def9422b53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Prefabs/Sorceress Warrior.prefab using Guid(19241c63182d7eb4aa7b0def9422b53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19370438b19f5369ae7825ff8eeb713c') in 0.011067 seconds
+  Import took 0.014448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.705794 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Textures/Sorceress.psd
+  artifactKey: Guid(89d5518b59dcb0e41a5f5209cfff71dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Textures/Sorceress.psd using Guid(89d5518b59dcb0e41a5f5209cfff71dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d1eef44eb35869e1eea98547de545f') in 0.010738 seconds
+  Import took 0.013709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.973676 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Attack1.anim
+  artifactKey: Guid(d1d180ae6ba474542a68ba2d71e4ad7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Attack1.anim using Guid(d1d180ae6ba474542a68ba2d71e4ad7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b9a209974e2170ee6a6c03976b5f95b') in 0.015846 seconds
+  Import took 0.018921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001164 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Attack1.anim
+  artifactKey: Guid(d1d180ae6ba474542a68ba2d71e4ad7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Attack1.anim using Guid(d1d180ae6ba474542a68ba2d71e4ad7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b9a209974e2170ee6a6c03976b5f95b') in 0.014777 seconds
+  Import took 0.017764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.773573 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Idle.anim
+  artifactKey: Guid(d13f977cbd62f5e44a2c117332bec061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Idle.anim using Guid(d13f977cbd62f5e44a2c117332bec061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67693ccf93cfedb6a7bdedc2be4cd971') in 0.045406 seconds
+  Import took 0.048462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.681938 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Fall.anim
+  artifactKey: Guid(e070351e919b1384a99e266d8ed7b868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Fall.anim using Guid(e070351e919b1384a99e266d8ed7b868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a449bb334b1ac736d26edbddfdfdbc2') in 0.026284 seconds
+  Import took 0.029233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.603754 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Jump.anim
+  artifactKey: Guid(07d50422ba103ac4f881cc1dafddf4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Jump.anim using Guid(07d50422ba103ac4f881cc1dafddf4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba7a866da2a4de85798a379903e7e90') in 0.009762 seconds
+  Import took 0.013174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.979041 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Land.anim
+  artifactKey: Guid(6eb7af5462b7898418c5bfad1174b43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Land.anim using Guid(6eb7af5462b7898418c5bfad1174b43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ba4a3d8f06dc6adc687d0367c063a86') in 0.011418 seconds
+  Import took 0.014648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.283909 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Run.anim
+  artifactKey: Guid(68172826386a4964196ce317891366a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Run.anim using Guid(68172826386a4964196ce317891366a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e3c002999f28e04fdcbeaf2d55b464c') in 0.044571 seconds
+  Import took 0.047655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.834279 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Stunned.anim
+  artifactKey: Guid(1e69353fc3494e24e8e2746cfd0807ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Stunned.anim using Guid(1e69353fc3494e24e8e2746cfd0807ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8e8d4ef02f47f15ab59b017c8b2046') in 0.014699 seconds
+  Import took 0.017849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.179135 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Walk.anim
+  artifactKey: Guid(309e74decaf7b82499b5f5a55e45b3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 1 FREE/Sorceress Warrior Mecanim Animation Pack/Animations/Walk.anim using Guid(309e74decaf7b82499b5f5a55e45b3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e650675da703da8a68a72889b328935a') in 0.045218 seconds
+  Import took 0.048422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.124960 seconds.
+  path: Assets/AVATARS/Ninja Warrior Mecanim Animation Pack/Animation Controller
+  artifactKey: Guid(e35f55de82013d44d98758a467630220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/Ninja Warrior Mecanim Animation Pack/Animation Controller using Guid(e35f55de82013d44d98758a467630220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a70eeda5c53b47234f5147c86d82b0') in 0.010121 seconds
+  Import took 0.013081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.866220 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 2 FREE/2 Handed Warrior Mecanim Animation Pack
+  artifactKey: Guid(1f6b2ca035e387048bb167acd5646d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 2 FREE/2 Handed Warrior Mecanim Animation Pack using Guid(1f6b2ca035e387048bb167acd5646d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c03ee8a6c60193c731664645d7dddce2') in 0.012061 seconds
+  Import took 0.016738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.823861 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack
+  artifactKey: Guid(2642863940676ab45b5c2d537df6e4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack using Guid(2642863940676ab45b5c2d537df6e4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d88dec2c324c7ed258a08a9e4f6e7e') in 0.009333 seconds
+  Import took 0.012447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.602914 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Swordsman Warrior Mecanim Animation Pack
+  artifactKey: Guid(ae88b44d51006304eaf53b2c8fbde5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Swordsman Warrior Mecanim Animation Pack using Guid(ae88b44d51006304eaf53b2c8fbde5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a94d1677d8f8bf84c8abcb67b5ca784') in 0.008896 seconds
+  Import took 0.011779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.174504 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 2 FREE/Archer Warrior Mecanim Animation Pack
+  artifactKey: Guid(e52019a4620271f4b8f9bd819eff78e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 2 FREE/Archer Warrior Mecanim Animation Pack using Guid(e52019a4620271f4b8f9bd819eff78e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c458b73e8d4a3f76ce8eddea8782b4') in 0.008913 seconds
+  Import took 0.011960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.401060 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 2 FREE/Knight Warrior Mecanim Animation Pack
+  artifactKey: Guid(f6e73931b4047194790cd2ff9c113479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 2 FREE/Knight Warrior Mecanim Animation Pack using Guid(f6e73931b4047194790cd2ff9c113479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05dcae37d6a938142000e624216c7022') in 0.008968 seconds
+  Import took 0.011902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.659748 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 2 FREE/Mage Warrior Mecanim Animation Pack
+  artifactKey: Guid(42c2b62c858ba7240ac219022576d711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 2 FREE/Mage Warrior Mecanim Animation Pack using Guid(42c2b62c858ba7240ac219022576d711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebb55f299c537b7687e150920bcf5d50') in 0.008504 seconds
+  Import took 0.011581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.884869 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Hammer Warrior Mecanim Animation Pack
+  artifactKey: Guid(7e872272a0940754db16b770f7f55136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Hammer Warrior Mecanim Animation Pack using Guid(7e872272a0940754db16b770f7f55136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d8b663b91b5f4b99f282d3fb9b78e8') in 0.008715 seconds
+  Import took 0.011644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.155834 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 2 FREE/2 Handed Warrior Mecanim Animation Pack/Animations
+  artifactKey: Guid(2af3f315df630bc43a7aae851aad750b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 2 FREE/2 Handed Warrior Mecanim Animation Pack/Animations using Guid(2af3f315df630bc43a7aae851aad750b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb104d90e7e4cc7bdae3391391d91f9') in 0.010921 seconds
+  Import took 0.013880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.322515 seconds.
+  path: Assets/AVATARS/SimonAnim/Animation Controller/Ninja Warrior Animation Controller.controller
+  artifactKey: Guid(2bde4631b80eb5648bfd89479fb7c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/SimonAnim/Animation Controller/Ninja Warrior Animation Controller.controller using Guid(2bde4631b80eb5648bfd89479fb7c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277a8c736364c0b22d2bfcbbc2a82e69') in 0.015321 seconds
+  Import took 0.018414 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.373 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2088.
+Total: 2.266625 ms (FindLiveObjects: 0.177585 ms CreateObjectMapping: 0.162346 ms MarkObjects: 1.825616 ms  DeleteObjects: 0.100145 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 72.673267 seconds.
+  path: Assets/AVATARS/SimonAnim/Animations
+  artifactKey: Guid(0fda21245846ea14fba4a6dfdb1182e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/SimonAnim/Animations using Guid(0fda21245846ea14fba4a6dfdb1182e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408e4d98a84b846cd8f445bc482b9076') in 0.006831 seconds
+  Import took 0.010075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.482278 seconds.
+  path: Assets/AVATARS/JadAnim/Animation Controller/Sorceress Warrior Animation Controller.controller
+  artifactKey: Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JadAnim/Animation Controller/Sorceress Warrior Animation Controller.controller using Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b744de80c9a4cc5e673e1d246a8580') in 0.018855 seconds
+  Import took 0.021922 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.358 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2091.
+Total: 2.116719 ms (FindLiveObjects: 0.175097 ms CreateObjectMapping: 0.054426 ms MarkObjects: 1.785807 ms  DeleteObjects: 0.099523 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 47.476535 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Swordsman Warrior Mecanim Animation Pack/Characters/Swordsman.FBX
+  artifactKey: Guid(e3942fec22e99384e9cee5aef64adec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Swordsman Warrior Mecanim Animation Pack/Characters/Swordsman.FBX using Guid(e3942fec22e99384e9cee5aef64adec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33d4f44dfc75e21d539be6173fc2906b') in 0.124001 seconds
+  Import took 0.127623 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003227 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.350 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2095.
+Total: 2.360239 ms (FindLiveObjects: 0.177274 ms CreateObjectMapping: 0.055981 ms MarkObjects: 2.022173 ms  DeleteObjects: 0.102944 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 4.271278 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Swordsman Warrior Mecanim Animation Pack/Prefabs/Swordsman Warrior.prefab
+  artifactKey: Guid(98474833b4f2d9643a6babba392d58dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Swordsman Warrior Mecanim Animation Pack/Prefabs/Swordsman Warrior.prefab using Guid(98474833b4f2d9643a6babba392d58dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1074315a8ade7d80e696b7abe70a4865') in 0.032343 seconds
+  Import took 0.035380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.388674 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Swordsman Warrior Mecanim Animation Pack/Textures/Swordsman.psd
+  artifactKey: Guid(8b195a6a26442d747b2e552bd9fcf96d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Swordsman Warrior Mecanim Animation Pack/Textures/Swordsman.psd using Guid(8b195a6a26442d747b2e552bd9fcf96d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b35225b5c24a2964dd61595aefcf8e') in 0.023426 seconds
+  Import took 0.026493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.451605 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Attack1.anim
+  artifactKey: Guid(fda026f0109edb840bde22b00de3868b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Attack1.anim using Guid(fda026f0109edb840bde22b00de3868b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b35951ce4d63718831df4758916ba0c8') in 0.019603 seconds
+  Import took 0.023438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.544331 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Fall.anim
+  artifactKey: Guid(7f69de2b08db9764196cefc9e3683451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Fall.anim using Guid(7f69de2b08db9764196cefc9e3683451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19141c150eef4ee9b79d866c9ce218c4') in 0.010903 seconds
+  Import took 0.014123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Fall.anim
+  artifactKey: Guid(7f69de2b08db9764196cefc9e3683451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Fall.anim using Guid(7f69de2b08db9764196cefc9e3683451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19141c150eef4ee9b79d866c9ce218c4') in 0.008700 seconds
+  Import took 0.011639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.923548 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Idle.anim
+  artifactKey: Guid(a2fdc46e599e06f41a82be0e187671fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Idle.anim using Guid(a2fdc46e599e06f41a82be0e187671fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb783e0024706207c344a06cf3dbbf18') in 0.045012 seconds
+  Import took 0.048035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.152710 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Jump.anim
+  artifactKey: Guid(6f3f9699a52e7a945a32dabac5dc145f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Jump.anim using Guid(6f3f9699a52e7a945a32dabac5dc145f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '580eaa6e4105428c4d76627ea0a4a2f4') in 0.012480 seconds
+  Import took 0.015441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.922100 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Land.anim
+  artifactKey: Guid(9a79d5ce43f82fc418501cf2bd35afe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Land.anim using Guid(9a79d5ce43f82fc418501cf2bd35afe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eb0c55b11f6543b63dd7c05654e2c01') in 0.010394 seconds
+  Import took 0.013576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000703 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Land.anim
+  artifactKey: Guid(9a79d5ce43f82fc418501cf2bd35afe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Land.anim using Guid(9a79d5ce43f82fc418501cf2bd35afe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eb0c55b11f6543b63dd7c05654e2c01') in 0.009563 seconds
+  Import took 0.012420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.390447 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Run.anim
+  artifactKey: Guid(9d8dedefc7825d246a941373097b0d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Run.anim using Guid(9d8dedefc7825d246a941373097b0d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f0a4aab735c9bca29a9e73449dc47a') in 0.011819 seconds
+  Import took 0.014863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002679 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Run.anim
+  artifactKey: Guid(9d8dedefc7825d246a941373097b0d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Run.anim using Guid(9d8dedefc7825d246a941373097b0d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f0a4aab735c9bca29a9e73449dc47a') in 0.010424 seconds
+  Import took 0.013360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.594558 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Walk.anim
+  artifactKey: Guid(5f99536bf97b2aa4ea65a6825953d96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Walk.anim using Guid(5f99536bf97b2aa4ea65a6825953d96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb58e1bae83e5ec55356c1a88040ebb1') in 0.012872 seconds
+  Import took 0.016002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000908 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/Walk.anim
+  artifactKey: Guid(5f99536bf97b2aa4ea65a6825953d96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/Walk.anim using Guid(5f99536bf97b2aa4ea65a6825953d96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb58e1bae83e5ec55356c1a88040ebb1') in 0.012080 seconds
+  Import took 0.014940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.937713 seconds.
+  path: Assets/AVATARS/RickyAnim/Animations/WalkSlow.anim
+  artifactKey: Guid(e5297fdf8a46551478e2ecb95cb89394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RickyAnim/Animations/WalkSlow.anim using Guid(e5297fdf8a46551478e2ecb95cb89394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602f371c5b704f57488f7989f626a9bf') in 0.013636 seconds
+  Import took 0.016653 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.372 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2097.
+Total: 2.218108 ms (FindLiveObjects: 0.181318 ms CreateObjectMapping: 0.055670 ms MarkObjects: 1.876621 ms  DeleteObjects: 0.103255 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002871 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.452 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2100.
+Total: 2.298970 ms (FindLiveObjects: 0.181318 ms CreateObjectMapping: 0.059402 ms MarkObjects: 1.965570 ms  DeleteObjects: 0.091125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002549 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.421 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2103.
+Total: 2.184519 ms (FindLiveObjects: 0.201222 ms CreateObjectMapping: 0.058158 ms MarkObjects: 1.827793 ms  DeleteObjects: 0.096101 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002559 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.359 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2106.
+Total: 2.145954 ms (FindLiveObjects: 0.180074 ms CreateObjectMapping: 0.055670 ms MarkObjects: 1.821573 ms  DeleteObjects: 0.086771 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 242.074948 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack/Characters
+  artifactKey: Guid(9cf13dbf1d960494094f25b70caa1856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack/Characters using Guid(9cf13dbf1d960494094f25b70caa1856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '570f8aa8a028317b47b43b08d042ea7b') in 0.012880 seconds
+  Import took 0.016134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.523346 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack/Materials
+  artifactKey: Guid(6e58069ae0edd184daa8d7247b52deb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack/Materials using Guid(6e58069ae0edd184daa8d7247b52deb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c542aea4181054189224c9616581c8') in 0.008809 seconds
+  Import took 0.011635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.253187 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack/Prefabs
+  artifactKey: Guid(8b5263bfe0fcfef44a1b49d49d6e52f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack/Prefabs using Guid(8b5263bfe0fcfef44a1b49d49d6e52f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8ab6c44ff5702fb3b05b069f2807a7') in 0.008384 seconds
+  Import took 0.011474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.258460 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack/Scenes
+  artifactKey: Guid(d7e1819c4c43a1d44acdfbdb8e6b8fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack/Scenes using Guid(d7e1819c4c43a1d44acdfbdb8e6b8fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '703bb31c6d140230129500e6d2873d5a') in 0.004435 seconds
+  Import took 0.007629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.377728 seconds.
+  path: Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack/Textures
+  artifactKey: Guid(58be1f8a768a340418b2425672d1568d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExtraAnims(KI)/Warrior Pack Bundle 3 FREE/Spearman Warrior Mecanim Animation Pack/Textures using Guid(58be1f8a768a340418b2425672d1568d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4bd8f3cdbd8c6c64bcb9b992a3d87cc') in 0.005081 seconds
+  Import took 0.008604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.217416 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations
+  artifactKey: Guid(e8c4b670935b9e44690e41f02e628ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations using Guid(e8c4b670935b9e44690e41f02e628ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836d232382f4f525958df71b7250b435') in 0.004641 seconds
+  Import took 0.008291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043526 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Spearman@Attack1.FBX
+  artifactKey: Guid(d49af005f8f03dd40944d120d5009866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Spearman@Attack1.FBX using Guid(d49af005f8f03dd40944d120d5009866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46af1bd6adc639ac884818d4e8c70ede') in 0.039923 seconds
+  Import took 0.043505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Spearman@Idle.FBX
+  artifactKey: Guid(b8bd7adb017ce8749ad411b53b5bf38e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Spearman@Idle.FBX using Guid(b8bd7adb017ce8749ad411b53b5bf38e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6172ccfee350ec371e21dffc4f200379') in 0.016739 seconds
+  Import took 0.020099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Spearman@Walk.FBX
+  artifactKey: Guid(f174c0fbfd7fbac4d88058c2b0aeb1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Spearman@Walk.FBX using Guid(f174c0fbfd7fbac4d88058c2b0aeb1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7bc0560bf99ac811ac4ab1121cac9a') in 0.014675 seconds
+  Import took 0.018011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Spearman@Jump.FBX
+  artifactKey: Guid(d0022f72a49229f46a890169cebea42d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Spearman@Jump.FBX using Guid(d0022f72a49229f46a890169cebea42d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b18748f3de75b8c5f615e1057e9fdc49') in 0.015170 seconds
+  Import took 0.018580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Spearman@Fall.FBX
+  artifactKey: Guid(50a7612e5599e1b4b99de469a2db8cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Spearman@Fall.FBX using Guid(50a7612e5599e1b4b99de469a2db8cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da11a476613190749ec510c5d0107e4') in 0.013416 seconds
+  Import took 0.016503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Spearman@Run.FBX
+  artifactKey: Guid(84015e646677f4f489536114019dcfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Spearman@Run.FBX using Guid(84015e646677f4f489536114019dcfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d500e5f28c2e0a3e4aa7336d3980a99') in 0.013159 seconds
+  Import took 0.016566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Spearman@WalkSlow.FBX
+  artifactKey: Guid(b6df8bd3c8dea53479cedcd654d161f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Spearman@WalkSlow.FBX using Guid(b6df8bd3c8dea53479cedcd654d161f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3653883bf639aa54c096dd2bde72423c') in 0.014171 seconds
+  Import took 0.018178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.034605 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Attack1.anim
+  artifactKey: Guid(b9352c18c63ac7141939177c6d82ee1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Attack1.anim using Guid(b9352c18c63ac7141939177c6d82ee1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8868fdae75409206df631fb7c97cf19c') in 0.018925 seconds
+  Import took 0.021962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.083419 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Fall.anim
+  artifactKey: Guid(b010d937da7c47249a43e754485436a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Fall.anim using Guid(b010d937da7c47249a43e754485436a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c807b4d63f64e0bdb81a47dba4252e') in 0.008370 seconds
+  Import took 0.011758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.809335 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Idle.anim
+  artifactKey: Guid(f48620826c4f02842810635ef1b88dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Idle.anim using Guid(f48620826c4f02842810635ef1b88dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c74d10ab4630f8abbbb499b703154c63') in 0.045045 seconds
+  Import took 0.048069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.849793 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Jump.anim
+  artifactKey: Guid(23d6d17f376d111448c79d208bff24c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Jump.anim using Guid(23d6d17f376d111448c79d208bff24c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd42d33db99dbe4a433bc2e640942acee') in 0.012106 seconds
+  Import took 0.015226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001522 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Jump.anim
+  artifactKey: Guid(23d6d17f376d111448c79d208bff24c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Jump.anim using Guid(23d6d17f376d111448c79d208bff24c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd42d33db99dbe4a433bc2e640942acee') in 0.011232 seconds
+  Import took 0.014188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.256536 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Land.anim
+  artifactKey: Guid(cebfa73a198e78248bc16f42f829460e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Land.anim using Guid(cebfa73a198e78248bc16f42f829460e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8744b677da9d4a02f2bc29612c976e3') in 0.009135 seconds
+  Import took 0.012376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.574843 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Run.anim
+  artifactKey: Guid(f13cee1b9e8ae6b4fbb157c37202e0d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Run.anim using Guid(f13cee1b9e8ae6b4fbb157c37202e0d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b965ab6e8c13ae993329418ad0800ed') in 0.011601 seconds
+  Import took 0.014641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.072078 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Walk.anim
+  artifactKey: Guid(cfe10d22511162d4683fe98d6e877de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Walk.anim using Guid(cfe10d22511162d4683fe98d6e877de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69040d4acb08d1c82bbbcfbb12a927c6') in 0.011872 seconds
+  Import took 0.015009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001564 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/Walk.anim
+  artifactKey: Guid(cfe10d22511162d4683fe98d6e877de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/Walk.anim using Guid(cfe10d22511162d4683fe98d6e877de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69040d4acb08d1c82bbbcfbb12a927c6') in 0.010116 seconds
+  Import took 0.013127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.241861 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/WalkSlow.anim
+  artifactKey: Guid(57da6131bedaf924ba50d3db468e15bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/WalkSlow.anim using Guid(57da6131bedaf924ba50d3db468e15bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8b1977835ff02b37e0217cb5b61430') in 0.012034 seconds
+  Import took 0.015004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002120 seconds.
+  path: Assets/AVATARS/JeloAnim/Animations/WalkSlow.anim
+  artifactKey: Guid(57da6131bedaf924ba50d3db468e15bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animations/WalkSlow.anim using Guid(57da6131bedaf924ba50d3db468e15bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8b1977835ff02b37e0217cb5b61430') in 0.010762 seconds
+  Import took 0.013725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.515318 seconds.
+  path: Assets/AVATARS/JeloAnim/Animation Controller/Spearman Warrior Animation Controller.controller
+  artifactKey: Guid(7dda4b9894d0a6a428d891bbec8decf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JeloAnim/Animation Controller/Spearman Warrior Animation Controller.controller using Guid(7dda4b9894d0a6a428d891bbec8decf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c7fa47fe805e2048129aff46834a64') in 0.011725 seconds
+  Import took 0.014911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.754962 seconds.
+  path: Assets/AVATARS/JadAnim/Animation Controller
+  artifactKey: Guid(21833cc2ea40aa04a8dc0df9253f2321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JadAnim/Animation Controller using Guid(21833cc2ea40aa04a8dc0df9253f2321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6535be98a6315cbc901d88ac220c49c9') in 0.006531 seconds
+  Import took 0.009450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.472170 seconds.
+  path: Assets/AVATARS/VincentAnim/Characters
+  artifactKey: Guid(a03bb6f82602ce54ea00128794dab83e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Characters using Guid(a03bb6f82602ce54ea00128794dab83e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c9a8e273bca77d507eef6ac6dc1f01') in 0.003876 seconds
+  Import took 0.006789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.491883 seconds.
+  path: Assets/AVATARS/VincentAnim/Materials
+  artifactKey: Guid(61ae96e16b245f040a8db1132ce6d3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Materials using Guid(61ae96e16b245f040a8db1132ce6d3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e5c7f49df1f1ae065ee136ac16af19') in 0.004059 seconds
+  Import took 0.007138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.664590 seconds.
+  path: Assets/AVATARS/VincentAnim/Prefabs
+  artifactKey: Guid(34efdc2a6d4b5844f890098258c65090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Prefabs using Guid(34efdc2a6d4b5844f890098258c65090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002a10c11a4fb66568c0e62a25beff08') in 0.003579 seconds
+  Import took 0.006682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.057048 seconds.
+  path: Assets/AVATARS/VincentAnim/Scenes
+  artifactKey: Guid(6aac539e229d4d548a8d83d6aaa7513f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Scenes using Guid(6aac539e229d4d548a8d83d6aaa7513f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ba9da266ac33fa8673d5fd77490464') in 0.003581 seconds
+  Import took 0.006856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.896763 seconds.
+  path: Assets/AVATARS/VincentAnim/Textures
+  artifactKey: Guid(127247b4f057d44489264aa8f954b64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Textures using Guid(127247b4f057d44489264aa8f954b64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def285555355042ff7e4cd8be07e9e35') in 0.003607 seconds
+  Import took 0.006740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.168742 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations
+  artifactKey: Guid(40b615a71cb8a9541a385858d4546711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations using Guid(40b615a71cb8a9541a385858d4546711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fccd7d09f5f9509486e96d05219ffa0d') in 0.004018 seconds
+  Import took 0.007009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063426 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Mage@Fall.FBX
+  artifactKey: Guid(8ac171a4127ef3d4c888745340c1274f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Mage@Fall.FBX using Guid(8ac171a4127ef3d4c888745340c1274f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0483d2bae090d08560fff005fcf00641') in 0.012627 seconds
+  Import took 0.016047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Mage@Jump.FBX
+  artifactKey: Guid(ccc3fd03b3e3f064ca25dcd069b704a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Mage@Jump.FBX using Guid(ccc3fd03b3e3f064ca25dcd069b704a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26ec082217f9e76f143c506394b17b3') in 0.014717 seconds
+  Import took 0.017847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Mage@Run.FBX
+  artifactKey: Guid(d9d469953be3eeb468fe9ec060467ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Mage@Run.FBX using Guid(d9d469953be3eeb468fe9ec060467ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54b4303f4d91b96ab6c394a6ca823e38') in 0.014616 seconds
+  Import took 0.018109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Mage@WalkSlow.FBX
+  artifactKey: Guid(f8a66c15787dfb944987231e40cb524c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Mage@WalkSlow.FBX using Guid(f8a66c15787dfb944987231e40cb524c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9adf60c0730accd58c61e69569401cf') in 0.015472 seconds
+  Import took 0.018860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Mage@Idle.FBX
+  artifactKey: Guid(be797334aa848784d838447aa3d3a0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Mage@Idle.FBX using Guid(be797334aa848784d838447aa3d3a0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec9008d264df2670f31e6ac99480f68') in 0.014852 seconds
+  Import took 0.018455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Mage@Walk.FBX
+  artifactKey: Guid(73343089e4172784b94f00a97fb84f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Mage@Walk.FBX using Guid(73343089e4172784b94f00a97fb84f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af1fe686db7aa99fecb1496cc33a55a') in 0.014660 seconds
+  Import took 0.018962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.348259 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Attack1.anim
+  artifactKey: Guid(c300e40d45a6f884a8ce393b1d1b77ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Attack1.anim using Guid(c300e40d45a6f884a8ce393b1d1b77ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a484273f99b6e44d28e296a1a39507df') in 0.017068 seconds
+  Import took 0.020738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004367 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Attack1.anim
+  artifactKey: Guid(c300e40d45a6f884a8ce393b1d1b77ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Attack1.anim using Guid(c300e40d45a6f884a8ce393b1d1b77ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a484273f99b6e44d28e296a1a39507df') in 0.017819 seconds
+  Import took 0.020952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.573970 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Fall.anim
+  artifactKey: Guid(598f3bbc8a7b3524b8deeb2cf6b0f39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Fall.anim using Guid(598f3bbc8a7b3524b8deeb2cf6b0f39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d793851302fd094adbf5612c0f9b339') in 0.009081 seconds
+  Import took 0.012747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.325503 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Idle.anim
+  artifactKey: Guid(a1080a21d57f9334cb5d68aca15d3bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Idle.anim using Guid(a1080a21d57f9334cb5d68aca15d3bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4204cd53f2111e3fe8ab7850d57613f') in 0.043923 seconds
+  Import took 0.047032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.679702 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Jump.anim
+  artifactKey: Guid(08164d757bae0374aaaca20c0af0c806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Jump.anim using Guid(08164d757bae0374aaaca20c0af0c806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2be5c7bc6d6b1403a68ccf1bf8355443') in 0.011281 seconds
+  Import took 0.014302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002432 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Jump.anim
+  artifactKey: Guid(08164d757bae0374aaaca20c0af0c806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Jump.anim using Guid(08164d757bae0374aaaca20c0af0c806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2be5c7bc6d6b1403a68ccf1bf8355443') in 0.009596 seconds
+  Import took 0.012742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.980905 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Land.anim
+  artifactKey: Guid(0ad8287a63a6b53429329610268d7726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Land.anim using Guid(0ad8287a63a6b53429329610268d7726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf44c94a58f2fdbbdb7f42ab7d72c905') in 0.010105 seconds
+  Import took 0.013478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001503 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Land.anim
+  artifactKey: Guid(0ad8287a63a6b53429329610268d7726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Land.anim using Guid(0ad8287a63a6b53429329610268d7726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf44c94a58f2fdbbdb7f42ab7d72c905') in 0.009225 seconds
+  Import took 0.012187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.325739 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Run.anim
+  artifactKey: Guid(df89e6c8d3df4e74fa84c595cf4da73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Run.anim using Guid(df89e6c8d3df4e74fa84c595cf4da73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e2eba4da66b4e581a141c5929f807b') in 0.011741 seconds
+  Import took 0.015528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.160421 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/Walk.anim
+  artifactKey: Guid(0475b7648d540c34f92434a0bd1ad9bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/Walk.anim using Guid(0475b7648d540c34f92434a0bd1ad9bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943a860cb9fcf086d9cfe78356a6d613') in 0.012383 seconds
+  Import took 0.015401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.902895 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/WalkSlow.anim
+  artifactKey: Guid(35ef2d7eb01b90748a38e095bec3b520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/WalkSlow.anim using Guid(35ef2d7eb01b90748a38e095bec3b520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc219b880aab77f5bb0d1e3eeda292c') in 0.013303 seconds
+  Import took 0.016575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/AVATARS/VincentAnim/Animations/WalkSlow.anim
+  artifactKey: Guid(35ef2d7eb01b90748a38e095bec3b520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animations/WalkSlow.anim using Guid(35ef2d7eb01b90748a38e095bec3b520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc219b880aab77f5bb0d1e3eeda292c') in 0.011849 seconds
+  Import took 0.014891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.270361 seconds.
+  path: Assets/AVATARS/Vincent.prefab
+  artifactKey: Guid(0e6bda146c779a34ab5371d39713361c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/Vincent.prefab using Guid(0e6bda146c779a34ab5371d39713361c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1931cf68dbbbd39de1c10cbc16347912') in 0.152111 seconds
+  Import took 0.157317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.089067 seconds.
+  path: Assets/AVATARS/VincentAnim/Animation Controller
+  artifactKey: Guid(26d7d8616e207be41a124e558a21e2b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animation Controller using Guid(26d7d8616e207be41a124e558a21e2b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dfbcd9372fbe0748f05e270d0876f20') in 0.008278 seconds
+  Import took 0.011347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.671682 seconds.
+  path: Assets/AVATARS/VincentAnim/Animation Controller/Mage Warrior Animation Controller.controller
+  artifactKey: Guid(537cff3fb7ebcef4096f3d9aa18a257e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/VincentAnim/Animation Controller/Mage Warrior Animation Controller.controller using Guid(537cff3fb7ebcef4096f3d9aa18a257e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07174f273c2b48a5456fa1829ea19216') in 0.016023 seconds
+  Import took 0.019612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.394287 seconds.
+  path: Assets/AVATARS/RJAnim/Animators/Ron.controller
+  artifactKey: Guid(acd0cd5e3b10e1742889539b75aeb342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RJAnim/Animators/Ron.controller using Guid(acd0cd5e3b10e1742889539b75aeb342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40151088678cd083bddf5729776360b9') in 0.016073 seconds
+  Import took 0.020086 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.395 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.6 MB.
+System memory in use after: 91.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2110.
+Total: 2.106767 ms (FindLiveObjects: 0.181629 ms CreateObjectMapping: 0.052871 ms MarkObjects: 1.762792 ms  DeleteObjects: 0.107609 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 47.935559 seconds.
+  path: Assets/AVATARS/SimonAnim/Animation Controller/Ninja Warrior Animation Controller.controller
+  artifactKey: Guid(2bde4631b80eb5648bfd89479fb7c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/SimonAnim/Animation Controller/Ninja Warrior Animation Controller.controller using Guid(2bde4631b80eb5648bfd89479fb7c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14707e1fe9ea36b9715da198f65e05b9') in 0.015824 seconds
+  Import took 0.019002 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002468 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.422 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.6 MB.
+System memory in use after: 91.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2113.
+Total: 2.294616 ms (FindLiveObjects: 0.204954 ms CreateObjectMapping: 0.056603 ms MarkObjects: 1.934780 ms  DeleteObjects: 0.096101 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 54.035066 seconds.
+  path: Assets/AVATARS/Jelo.prefab
+  artifactKey: Guid(4669feb53e268884ea75ceaf3c92a930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/Jelo.prefab using Guid(4669feb53e268884ea75ceaf3c92a930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194e5c858e0d9e24f0ea51bab8057e82') in 0.175053 seconds
+  Import took 0.179656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/AVATARS/Ricky.controller
+  artifactKey: Guid(77d4e5ef60613ba439ac690f883014a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/Ricky.controller using Guid(77d4e5ef60613ba439ac690f883014a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f303997edb7f40d4571e85f43586e1a7') in 0.068457 seconds
+  Import took 0.071751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/AVATARS/RJ.prefab
+  artifactKey: Guid(bea94e1bba299804baaa91c22d85ee5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/RJ.prefab using Guid(bea94e1bba299804baaa91c22d85ee5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78a0396637a2cabf76729e04dc16be6c') in 0.072218 seconds
+  Import took 0.076332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/AVATARS/Simon.prefab
+  artifactKey: Guid(7977959f0dbe64d49b3a6e7de28ddcce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/Simon.prefab using Guid(7977959f0dbe64d49b3a6e7de28ddcce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bea2c26540c608b3d767609aea238bf') in 0.123134 seconds
+  Import took 0.127896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/AVATARS/Jad.prefab
+  artifactKey: Guid(ae5302109d690304aab578fbef79bc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/Jad.prefab using Guid(ae5302109d690304aab578fbef79bc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0428b6de9506b5c8a4b942e4ab67245') in 0.072721 seconds
+  Import took 0.077432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/AVATARS/Ricky.prefab
+  artifactKey: Guid(83e55f6f7a48c644db1b2c5d3d65190f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/Ricky.prefab using Guid(83e55f6f7a48c644db1b2c5d3d65190f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044fefe8f8a5f1a2bbec6f53db46e0ea') in 0.238381 seconds
+  Import took 0.242588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/AVATARS/Jad.prefab
+  artifactKey: Guid(ae5302109d690304aab578fbef79bc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/Jad.prefab using Guid(ae5302109d690304aab578fbef79bc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0428b6de9506b5c8a4b942e4ab67245') in 0.062278 seconds
+  Import took 0.066911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/AVATARS/Ricky.prefab
+  artifactKey: Guid(83e55f6f7a48c644db1b2c5d3d65190f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/Ricky.prefab using Guid(83e55f6f7a48c644db1b2c5d3d65190f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044fefe8f8a5f1a2bbec6f53db46e0ea') in 0.064725 seconds
+  Import took 0.069226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.880435 seconds.
+  path: Assets/AVATARS/JadAnim/Animation Controller/Sorceress Warrior Animation Controller.controller
+  artifactKey: Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AVATARS/JadAnim/Animation Controller/Sorceress Warrior Animation Controller.controller using Guid(bd223d1b08e6c0444b82048e4bf6b2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '201db7327c7394e5e7c6e9d803d1becf') in 0.068135 seconds
+  Import took 0.072330 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002635 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.414 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2117.
+Total: 2.171146 ms (FindLiveObjects: 0.183184 ms CreateObjectMapping: 0.060025 ms MarkObjects: 1.819396 ms  DeleteObjects: 0.107298 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002569 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.408 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2120.
+Total: 2.326028 ms (FindLiveObjects: 0.189715 ms CreateObjectMapping: 0.055048 ms MarkObjects: 1.980187 ms  DeleteObjects: 0.099834 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002598 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.420 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2123.
+Total: 2.205046 ms (FindLiveObjects: 0.194069 ms CreateObjectMapping: 0.054737 ms MarkObjects: 1.850497 ms  DeleteObjects: 0.103877 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
