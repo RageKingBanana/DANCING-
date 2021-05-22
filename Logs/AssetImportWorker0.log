@@ -4604,3 +4604,593 @@ Total: 2.205046 ms (FindLiveObjects: 0.194069 ms CreateObjectMapping: 0.054737 m
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.469 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2126.
+Total: 2.265692 ms (FindLiveObjects: 0.301678 ms CreateObjectMapping: 0.056914 ms MarkObjects: 1.807578 ms  DeleteObjects: 0.097656 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 131.532830 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/MoonSword demo.unity
+  artifactKey: Guid(2ca5f81a57ad63c4d870c573b1396023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/MoonSword demo.unity using Guid(2ca5f81a57ad63c4d870c573b1396023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ee1e3af87a58df8a52cda424295985') in 0.024116 seconds
+  Import took 0.027353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.633982 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures
+  artifactKey: Guid(f01787833efc60a418ab742266eadc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures using Guid(f01787833efc60a418ab742266eadc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1c5503659812e93cc5ce973dc0bfc6') in 0.009594 seconds
+  Import took 0.012497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061012 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/Circle135.png
+  artifactKey: Guid(cab9fd7f232d5ee4485103dacb001351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/Circle135.png using Guid(cab9fd7f232d5ee4485103dacb001351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa6cf64e50b503d4d264e01d3f4b010') in 0.036585 seconds
+  Import took 0.039653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_AO.png
+  artifactKey: Guid(83a9757a3df9834419bfe33e6e2bc462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_AO.png using Guid(83a9757a3df9834419bfe33e6e2bc462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe5470537f437a1e60501b51f2c9c12') in 0.033044 seconds
+  Import took 0.035980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/Flash20.png
+  artifactKey: Guid(91ae98d3a8244de43a81a49edbc5e1f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/Flash20.png using Guid(91ae98d3a8244de43a81a49edbc5e1f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed0112b37f874d6bc9f57ee27a2b4ee') in 0.025440 seconds
+  Import took 0.029020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword3_Albedo.png
+  artifactKey: Guid(fd647a7973321fe4781ce2238d20964c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword3_Albedo.png using Guid(fd647a7973321fe4781ce2238d20964c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af71ae4ab142b94544f002fcf10136e0') in 0.037730 seconds
+  Import took 0.040514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword4_MetallicSmoothness.png
+  artifactKey: Guid(30d7b537a58fecb4b9ccd32c75b6a187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword4_MetallicSmoothness.png using Guid(30d7b537a58fecb4b9ccd32c75b6a187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd854e10714c7d72dec2fefbbc1a0d22') in 0.039936 seconds
+  Import took 0.042737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword3_Height.png
+  artifactKey: Guid(8c3142a6267ed8340b831259bbba6bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword3_Height.png using Guid(8c3142a6267ed8340b831259bbba6bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1194155c14b2f851980e7dd72fe8746') in 0.033747 seconds
+  Import took 0.037406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword4_Height.png
+  artifactKey: Guid(c18b49e5d32ff4546a0f15581acc8dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword4_Height.png using Guid(c18b49e5d32ff4546a0f15581acc8dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893621393bb1d56fa14ff1f5a2c72e7f') in 0.033233 seconds
+  Import took 0.036164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/Smoke3.png
+  artifactKey: Guid(52b767eecc2845a429e0e9e2155a8ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/Smoke3.png using Guid(52b767eecc2845a429e0e9e2155a8ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada487a219c4277c99de48ad372954d2') in 0.024666 seconds
+  Import took 0.027474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001183 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword5_Emission.png
+  artifactKey: Guid(d9e8caad6bd61694796b91feae617de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword5_Emission.png using Guid(d9e8caad6bd61694796b91feae617de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b99201a8d8124c80c83551eaea787e') in 0.034495 seconds
+  Import took 0.037689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword6_Emission.png
+  artifactKey: Guid(d818c47a6160df143b5023ad27871182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword6_Emission.png using Guid(d818c47a6160df143b5023ad27871182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0db4e0bb0cb911df28bbfb8606dda02') in 0.037039 seconds
+  Import took 0.039894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_MetallicSmoothness.png
+  artifactKey: Guid(7db1f746671f4b344a43e975926a2acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_MetallicSmoothness.png using Guid(7db1f746671f4b344a43e975926a2acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c86d516198c6c7961dd373ab1e0bea06') in 0.038041 seconds
+  Import took 0.041049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword3_Normal.png
+  artifactKey: Guid(a826e5bd301f58c41b6806313f529cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword3_Normal.png using Guid(a826e5bd301f58c41b6806313f529cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fedc5a786b74393b29643b9ce30d1ff6') in 0.035585 seconds
+  Import took 0.038563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_Height.png
+  artifactKey: Guid(18363db42f2f4aa40bf0dc8af1fbf807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_Height.png using Guid(18363db42f2f4aa40bf0dc8af1fbf807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76cd1c86f33bcc7aad4ff36b95d76b5e') in 0.034879 seconds
+  Import took 0.037948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_Emission.png
+  artifactKey: Guid(3ef19b36de7cb5f438e347c085f57039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_Emission.png using Guid(3ef19b36de7cb5f438e347c085f57039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa060e75ef217a10891cc8669175a612') in 0.027289 seconds
+  Import took 0.030018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_Normal.png
+  artifactKey: Guid(08dacca8e1c628b4cab7d4d22d2402f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_Normal.png using Guid(08dacca8e1c628b4cab7d4d22d2402f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c8764379cc59cab0e6fafb64a56f4c') in 0.032662 seconds
+  Import took 0.035527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword6_Albedo.png
+  artifactKey: Guid(6cff31f6f9b91734b8b84d7937d973ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword6_Albedo.png using Guid(6cff31f6f9b91734b8b84d7937d973ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10d257307d3cc9eb8decfe9fb4642de') in 0.049528 seconds
+  Import took 0.052775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/Point12.png
+  artifactKey: Guid(c8ada4fdced7c07409542d983b96835e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/Point12.png using Guid(c8ada4fdced7c07409542d983b96835e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3683d79ea4da379af865bdcf3442b2f') in 0.030770 seconds
+  Import took 0.033943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword3_MetallicSmoothness.png
+  artifactKey: Guid(7c73c8b7c51325c4f9f80bc415e18df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword3_MetallicSmoothness.png using Guid(7c73c8b7c51325c4f9f80bc415e18df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63a21dbe1aabf9815d2df848b23c7da6') in 0.035111 seconds
+  Import took 0.038018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword4_Normal.png
+  artifactKey: Guid(ed5786b989f3aa04aac76b2910b6a5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword4_Normal.png using Guid(ed5786b989f3aa04aac76b2910b6a5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4943ce83fce803f8a2c951d725f68fc4') in 0.095199 seconds
+  Import took 0.098106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword2_Emission.png
+  artifactKey: Guid(e03932f3c0b54554c970a4d668c8f677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword2_Emission.png using Guid(e03932f3c0b54554c970a4d668c8f677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df95a5ebdffb7deb4e5c8307699930d') in 0.030187 seconds
+  Import took 0.032979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword4_Albedo.png
+  artifactKey: Guid(02c2546a0ee57d242902de031cd3bbe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword4_Albedo.png using Guid(02c2546a0ee57d242902de031cd3bbe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ac635e5df2f750bab8c5955ce44571') in 0.031090 seconds
+  Import took 0.033903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_Albedo.png
+  artifactKey: Guid(81b0e80d67eb37e4995dda9ef37f0017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword1_Albedo.png using Guid(81b0e80d67eb37e4995dda9ef37f0017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '960ffa1a3164a35dd54a84068e034b0d') in 0.033003 seconds
+  Import took 0.036131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword2_Albedo.png
+  artifactKey: Guid(500df31d91ac9d344b654c7f00298daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/MoonSword2_Albedo.png using Guid(500df31d91ac9d344b654c7f00298daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '849d4d2a59485495a76db4f3292e4b6e') in 0.031941 seconds
+  Import took 0.034879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/Trail21.png
+  artifactKey: Guid(0d1fb353c40bd6345af42a3b4f0bdb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Textures/Trail21.png using Guid(0d1fb353c40bd6345af42a3b4f0bdb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5f3861a4bf741f029dfaeff4bdf4681') in 0.026491 seconds
+  Import took 0.029398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.030571 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Materials
+  artifactKey: Guid(9b803ac084480f444a8ee578884a74aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Materials using Guid(9b803ac084480f444a8ee578884a74aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c43d139c7f89fd864d3b5927dea1296') in 0.004254 seconds
+  Import took 0.007282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.244647 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Prefabs/swing.anim
+  artifactKey: Guid(68a66721721132544ac91b47759084ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Prefabs/swing.anim using Guid(68a66721721132544ac91b47759084ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bd11ed76c4a79a59eb53a617d4cb7a') in 0.009958 seconds
+  Import took 0.012972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018437 seconds.
+  path: Assets/A-WEAPONS/Hovl Studio/MoonSword/Prefabs/swing.anim
+  artifactKey: Guid(68a66721721132544ac91b47759084ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/Hovl Studio/MoonSword/Prefabs/swing.anim using Guid(68a66721721132544ac91b47759084ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bd11ed76c4a79a59eb53a617d4cb7a') in 0.003477 seconds
+  Import took 0.006396 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003678 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.363 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2129.
+Total: 3.034193 ms (FindLiveObjects: 0.264046 ms CreateObjectMapping: 0.058780 ms MarkObjects: 2.614643 ms  DeleteObjects: 0.094546 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002584 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.534 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2132.
+Total: 2.351530 ms (FindLiveObjects: 0.196557 ms CreateObjectMapping: 0.057536 ms MarkObjects: 1.989517 ms  DeleteObjects: 0.106054 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003451 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.960 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2135.
+Total: 2.701414 ms (FindLiveObjects: 0.222371 ms CreateObjectMapping: 0.074953 ms MarkObjects: 2.290884 ms  DeleteObjects: 0.110719 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006140 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.096 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2138.
+Total: 3.242257 ms (FindLiveObjects: 0.370410 ms CreateObjectMapping: 0.237921 ms MarkObjects: 2.519475 ms  DeleteObjects: 0.112274 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005392 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.804 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2141.
+Total: 3.261228 ms (FindLiveObjects: 0.249117 ms CreateObjectMapping: 0.075575 ms MarkObjects: 2.824573 ms  DeleteObjects: 0.110408 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.030719 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.664 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2144.
+Total: 2.384808 ms (FindLiveObjects: 0.190648 ms CreateObjectMapping: 0.059402 ms MarkObjects: 1.997292 ms  DeleteObjects: 0.136221 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1577.242756 seconds.
+  path: Assets/A-WEAPONS/AdventureForge
+  artifactKey: Guid(176527cf511faef4281961eb62dec644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge using Guid(176527cf511faef4281961eb62dec644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4ad3cfc4d1b2421d93b5ed44bc4d18') in 0.013213 seconds
+  Import took 0.017061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.127765 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/Geometry
+  artifactKey: Guid(a869527d6a6a4db45a9ba1d944fba21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/Geometry using Guid(a869527d6a6a4db45a9ba1d944fba21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d652004843a1a130db406df3b6ac648') in 0.008743 seconds
+  Import took 0.012003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.659284 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01
+  artifactKey: Guid(fc92633f7ff2d7947b6f2dd7bb22023d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01 using Guid(fc92633f7ff2d7947b6f2dd7bb22023d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f5e30e7c7b399b81096925c722510ca') in 0.008999 seconds
+  Import took 0.011998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048702 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Metalstaff01.fbx
+  artifactKey: Guid(14608d65f083c4846b35aecdeec5f436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Metalstaff01.fbx using Guid(14608d65f083c4846b35aecdeec5f436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f293605f3eb0115c18ec12b568a56c') in 0.138946 seconds
+  Import took 0.142441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.845320 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Materials
+  artifactKey: Guid(3be65d189f165f04a868601d7ae9e06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Materials using Guid(3be65d189f165f04a868601d7ae9e06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f5d4cefc8e25fe03651d0eec3902e5a') in 0.003638 seconds
+  Import took 0.006755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.316013 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Materials/Metalstaff01CasingMA.mat
+  artifactKey: Guid(e886333cd46843e4781e3342cc10d489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Materials/Metalstaff01CasingMA.mat using Guid(e886333cd46843e4781e3342cc10d489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011f27143bc2095f7ecf937309a3c9c9') in 0.032047 seconds
+  Import took 0.036050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Materials/Metalstaff01InnerGemMA.mat
+  artifactKey: Guid(7099989a41c552f43832d5c0603d944f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Materials/Metalstaff01InnerGemMA.mat using Guid(7099989a41c552f43832d5c0603d944f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197f35425fc5ce4966b415fe04c3f830') in 0.015034 seconds
+  Import took 0.017668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Materials/Metalstaff01RodMA.mat
+  artifactKey: Guid(882e79bf67fd05f4f9b93a590fc8fe5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Materials/Metalstaff01RodMA.mat using Guid(882e79bf67fd05f4f9b93a590fc8fe5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5131f952024e0dbf19f6446a87667195') in 0.015798 seconds
+  Import took 0.018630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Materials/Metalstaff01Ring.mat
+  artifactKey: Guid(8a81db11f5dc3b24da8db9d77be45138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/Geometry/Metalstaff01/Materials/Metalstaff01Ring.mat using Guid(8a81db11f5dc3b24da8db9d77be45138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2ce6e6e9e834001d0fff4070269b452') in 0.017902 seconds
+  Import took 0.021069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.397202 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/AnimationCtrl
+  artifactKey: Guid(160ddfd37095b01489136fbeff8d1624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/AnimationCtrl using Guid(160ddfd37095b01489136fbeff8d1624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b08dfc5eb736de518b140ae345a5b57') in 0.008899 seconds
+  Import took 0.011862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.549138 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/AnimationCtrl/Metalstaff01
+  artifactKey: Guid(9dac938629bf0a2488c11fe13daa906e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/AnimationCtrl/Metalstaff01 using Guid(9dac938629bf0a2488c11fe13daa906e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '880cac93452fc2ab3dba9201a1bc50b7') in 0.004604 seconds
+  Import took 0.007611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.544067 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/AnimationCtrl/Metalstaff01/Metalstaff01AnimCtrl.controller
+  artifactKey: Guid(f3f4c345a6c2c95428f45f122dd9ad20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/AnimationCtrl/Metalstaff01/Metalstaff01AnimCtrl.controller using Guid(f3f4c345a6c2c95428f45f122dd9ad20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a53795a6629e345d99f99c65ca7c3f') in 0.011110 seconds
+  Import took 0.014162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.488523 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/PreFab
+  artifactKey: Guid(9a064899524b3ee4d8aa8ca2ba28b443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/PreFab using Guid(9a064899524b3ee4d8aa8ca2ba28b443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27a0dbdb68fc746b7f4ec306d40a354') in 0.008638 seconds
+  Import took 0.011709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.909070 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/PreFab/Metalstaff01
+  artifactKey: Guid(7608e065c3802504bb6aa426a3310e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/PreFab/Metalstaff01 using Guid(7608e065c3802504bb6aa426a3310e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '439d834abc54c33983d478af18e718f1') in 0.005070 seconds
+  Import took 0.008018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.678875 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/PreFab/Metalstaff01/512
+  artifactKey: Guid(4604a33e41438a141a77babf504eccd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/PreFab/Metalstaff01/512 using Guid(4604a33e41438a141a77babf504eccd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0772dbde83d943164852e0341643e685') in 0.009215 seconds
+  Import took 0.012455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040517 seconds.
+  path: Assets/A-WEAPONS/AdventureForge/PreFab/Metalstaff01/512/Metalstaff01.prefab
+  artifactKey: Guid(9a763c773ef7fff45b44fbb1a796b309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A-WEAPONS/AdventureForge/PreFab/Metalstaff01/512/Metalstaff01.prefab using Guid(9a763c773ef7fff45b44fbb1a796b309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0801f22833cd46593dbdae5005f76535') in 0.389633 seconds
+  Import took 0.393135 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002640 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.592 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.9 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2148.
+Total: 2.241434 ms (FindLiveObjects: 0.208375 ms CreateObjectMapping: 0.056914 ms MarkObjects: 1.882530 ms  DeleteObjects: 0.092369 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002649 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.481 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.9 MB.
+System memory in use after: 91.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2151.
+Total: 2.581054 ms (FindLiveObjects: 0.201533 ms CreateObjectMapping: 0.059714 ms MarkObjects: 2.223084 ms  DeleteObjects: 0.095168 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002894 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.957 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.9 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2154.
+Total: 2.930316 ms (FindLiveObjects: 0.237610 ms CreateObjectMapping: 0.188471 ms MarkObjects: 2.411866 ms  DeleteObjects: 0.089881 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
